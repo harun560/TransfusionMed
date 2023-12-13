@@ -1,0 +1,229 @@
+{
+<<<<<<< HEAD
+  "patients": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe",
+      "dob": "12/10/1968",
+      "bloodType": "A+",
+      "transfusedLastThreeMonths": false
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "dob": "05/08/1972",
+      "bloodType": "B-",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 3,
+      "firstName": "Bob",
+      "lastName": "Johnson",
+      "dob": "08/19/2000",
+      "bloodType": "O+",
+      "transfusedLastThreeMonths": false
+    },
+    {
+      "id": 4,
+      "firstName": "Alice",
+      "lastName": "Brown",
+      "dob": "01/15/1955",
+      "bloodType": "A-",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 5,
+      "firstName": "Charlie",
+      "lastName": "Miller",
+      "dob": "10/18/1945",
+      "bloodType": "B+",
+      "transfusedLastThreeMonths": false
+    },
+    {
+      "id": 6,
+      "firstName": "David",
+      "lastName": "Wilson",
+      "dob": "12/01/2003",
+      "bloodType": "AB+",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 7,
+      "firstName": "Eva",
+      "lastName": "Gonzalez",
+      "dob": "08/17/1953",
+      "bloodType": "O-",
+      "transfusedLastThreeMonths": false
+    },
+    {
+      "id": 8,
+      "firstName": "Frank",
+      "lastName": "Roberts",
+      "dob": "04/15/1970",
+      "bloodType": "A+",
+      "transfusedLastThreeMonths": false
+    },
+    {
+      "id": 9,
+      "firstName": "Grace",
+      "lastName": "Lee",
+      "dob": "05/10/1960",
+      "bloodType": "B-",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 10,
+      "firstName": "Henry",
+      "lastName": "Chen",
+      "dob": "11/05/1964",
+      "bloodType": "O+",
+      "transfusedLastThreeMonths": false
+    },
+
+    {
+      "id": 11,
+      "firstName": "Zoe",
+      "lastName": "Anderson",
+      "dob": "07/15/1963",
+      "bloodType": "AB-",
+      "transfusedLastThreeMonths": true
+    },
+
+    {
+      "id": 12,
+      "firstName": "Jack",
+      "lastName": "Taylor",
+      "dob": "06/10/1975",
+      "bloodType": "A+",
+      "transfusedLastThreeMonths": false
+    },
+    {
+      "id": 13,
+      "firstName": "Karen",
+      "lastName": "Johnson",
+      "dob": "1984-02-08",
+      "bloodType": "B+",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 14,
+      "firstName": "Liam",
+      "lastName": "Davis",
+      "dob": "1979-06-23",
+      "bloodType": "O-",
+      "transfusedLastThreeMonths": false
+    },
+    {
+      "id": 15,
+      "firstName": "Mia",
+      "lastName": "Martinez",
+      "dob": "1983-09-17",
+      "bloodType": "A-",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 16,
+      "firstName": "Noah",
+      "lastName": "Jones",
+      "dob": "1996-12-03",
+      "bloodType": "B+",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 17,
+      "firstName": "Olivia",
+      "lastName": "White",
+      "dob": "1971-08-11",
+      "bloodType": "AB+",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 18,
+      "firstName": "Peter",
+      "lastName": "Harris",
+      "dob": "01/01/1994",
+      "bloodType": "O-",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 19,
+      "firstName": "Quinn",
+      "lastName": "Thompson",
+      "dob": "1993-07-05",
+      "bloodType": "A+",
+      "transfusedLastThreeMonths": false
+    },
+    {
+      "id": 20,
+      "firstName": "Rachel",
+      "lastName": "Evans",
+      "dob": "1976-04-19",
+      "bloodType": "B-",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 21,
+      "firstName": "Samuel",
+      "lastName": "Baker",
+      "dob": "1980-11-02",
+      "bloodType": "O+",
+      "transfusedLastThreeMonths": false
+    },
+    {
+      "id": 22,
+      "firstName": "Tina",
+      "lastName": "Wang",
+      "dob": "07/09/1935",
+      "bloodType": "AB-",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 23,
+      "firstName": "Ulysses",
+      "lastName": "Ramirez",
+      "dob": "10/12/1967",
+      "bloodType": "A-",
+      "transfusedLastThreeMonths": false
+    },
+    {
+      "id": 24,
+      "firstName": "Victoria",
+      "lastName": "Garcia",
+      "dob": "09/13/1987",
+      "bloodType": "B+",
+      "transfusedLastThreeMonths": true
+    },
+    {
+      "id": 25,
+      "firstName": "William",
+      "lastName": "Lopez",
+      "dob": "06/10/1962",
+      "bloodType": "O-",
+      "transfusedLastThreeMonths": false
+    },
+    {
+      "id": 26,
+      "firstName": "Ximena",
+      "lastName": "Reyes",
+      "dob": "01/05/1985",
+      "bloodType": "AB+",
+      "transfusedLastThreeMonths": true
+    }
+  ]
+}
+=======
+    "patients": [
+      {
+        "id": 1,
+        "firstName": "John",
+        "lastName": "Doe",
+        "dob": "1990-01-01",
+        "bloodType": "A+",
+        "transfusedLastThreeMonths": false
+      }
+      
+    ]
+  }
+>>>>>>> 475a7af135a085880b26e92503d820f4b7ae4212

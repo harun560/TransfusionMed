@@ -1,0 +1,23 @@
+/* PatientList.css */
+
+.patient-list-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Adjust as needed */
+  }
+  
+  .patient-table {
+    border-collapse: collapse;
+    width: 80%; /* Adjust as needed */
+    text-align: center;
+  }
+  
+  .patient-table th, .patient-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .patient-table th {
+    background-color: #f2f2f2;
+  }
+  
